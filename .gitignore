@@ -8,8 +8,10 @@
 __pycache__/
 *.pyc
 
-# Data folder
-data/
+# Data
+Data/
+*.csv
+!data/ds_salaries.csv
 
 # Model files
 *.pkl
